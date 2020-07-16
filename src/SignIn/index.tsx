@@ -1,2 +1,5 @@
 import React from 'react';
-import { } from 'react-native';
+
+import { Conteiner } from './styles';
+
+const SignIn: React.FC = () => <Conteiner />;

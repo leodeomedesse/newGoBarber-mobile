@@ -1,5 +1,3 @@
 import styled from 'styled-components/native';
 
-const Conteiner = styled.View`
-
-`;
+const Conteiner = styled.View``;
